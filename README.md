@@ -41,7 +41,7 @@ Injury severity has declined over time due to improvements in aircraft design, p
 - Fewer safety-related service interruptions
 - Stronger reputational positioning
 
-![Total Injuries Over Time](images/total_injuries_over_time.png)
+![Total Injuries Over Time](/total_injuries_over_time.png)
 
 ---
 
@@ -51,14 +51,14 @@ We recommend a deliberate rollout:
 - Avoid early entry into higher-risk personal aviation
 - Use the pilot to build internal capacity and safety culture
 
-![Heatmap: Risk by Flight Purpose](images/heat_map_for_risk_by_flight_purpose.png)
+![Heatmap: Risk by Flight Purpose](/heat_map_for_risk_by_flight_purpose.png)
 
 ---
 
 ### 3. Choose safe, proven aircraft brands  
 Among the most commonly used aircraft, Beech and Bellanca consistently show lower injury risk per incident. These are the optimal starting points for procurement — blending safety with operational familiarity.
 
-![Total Fatalities by Aircraft Make](images/total_fatalities_by_make.png)
+![Total Fatalities by Aircraft Make](/total_fatalities_by_make.png)
 
 ---
 
